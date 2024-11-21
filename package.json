@@ -4,7 +4,7 @@
   "description": "FSA Ratings app for Aviva Zero tech test",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon src/index.js",
     "test": "echo not implemented"
   },
   "repository": {
@@ -21,5 +21,7 @@
   "engines": {
     "node": ">=14.8.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
