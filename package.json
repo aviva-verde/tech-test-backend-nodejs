@@ -1,0 +1,25 @@
+{
+  "name": "fsa-ratings",
+  "version": "0.1.0",
+  "description": "FSA Ratings app for Aviva Zero tech test",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo not implemented"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/aviva-verde/tech-test-backend-nodejs.git"
+  },
+  "license": "ISC",
+  "homepage": "https://https://github.com/aviva-verde/tech-test-backend-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.6.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14.8.0"
+  },
+  "devDependencies": {}
+}
