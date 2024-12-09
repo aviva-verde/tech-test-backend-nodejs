@@ -8,6 +8,8 @@ The existing application returns only one of two preset results. Expand the func
 
 The Food Ratings API documentation can be found here: http://api.ratings.food.gov.uk/help
 
+The specific Establishments API with query parameters are [here](https://api.ratings.food.gov.uk/Help/Api/GET-Establishments_name_address_longitude_latitude_maxDistanceLimit_businessTypeId_schemeTypeKey_ratingKey_ratingOperatorKey_localAuthorityId_countryId_sortOptionKey_pageNumber_pageSize)
+
 In England the Food Standards Agency rates establishments using the FHRS rating scheme. This uses a star rating from 5 to 0, or "Exempt".
 
 In Scotland the Food Standards Agency rates establishments using the FHIS rating scheme. This uses a the values "Pass and Eat Safe", "Pass" and "Improvement Required".
