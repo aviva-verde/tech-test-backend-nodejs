@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://https://github.com/aviva-verde/tech-test-backend-nodejs#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.21.2",
     "node-fetch": "^2.6.0"
   },
   "type": "module",
